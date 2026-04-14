@@ -1,6 +1,6 @@
 # iris — Document AI. Intelligent document processing
 
-Document AI. Intelligent document processing. iris gives you a focused, inspectable implementation of that idea.
+Document AI. Intelligent document processing.
 
 ## Why iris
 
